@@ -1,5 +1,21 @@
 # Detailed schedule and resources
 
+<!-- ## Class 3 -->
+
+<!-- Required reading: WCBC Chapter 3. -->
+
+<!-- Handout for today: [class3-handout.pdf](class03/class3-handout.pdf). If you have easy access to a printer, print this out before class, but that is not essential. -->
+
+<!-- Today's warm-up exercise: [03-warmup.docx](class03/03-warmup.docx) -->
+
+<!-- Today's PowerPoint: [03-impossible-programs.pptx](class03/03-impossible-programs.pptx). -->
+
+<!-- ## Class 2 -->
+
+<!-- Required reading: Chapters 1 and 2 of WCBC. -->
+
+<!-- Today's PowerPoint: [02-computer-programs.pptx](class02/02-computer-programs.pptx). -->
+
 ## Class 1
 
 The textbook is called *What Can Be Computed?*, which we abbreviate as
@@ -40,4 +56,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Fri Jan 13 15:02:54 UTC 2023 by jmac.
+---- Last modified: Fri Jan 13 16:22:15 UTC 2023 by jmac.
