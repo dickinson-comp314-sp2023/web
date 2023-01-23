@@ -9,8 +9,8 @@
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=49026)
 * [Python
 programs](http://whatcanbecomputed.com/wp-content/uploads/2019/01/wcbc-programs-v1.1.zip)
-from [whatcanbecomputed.com](https://whatcanbecomputed.com/) 
+from [whatcanbecomputed.com](https://whatcanbecomputed.com/) (ignore security warnings; also available on [Moodle](https://lms.dickinson.edu/mod/resource/view.php?id=1167805))
 
 
 ----
-Last modified: Mon Jan 23 18:49:40 UTC 2023 by jmac.
+Last modified: Mon Jan 23 19:03:06 UTC 2023 by jmac.
