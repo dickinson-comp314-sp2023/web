@@ -1,7 +1,7 @@
 # COMP/MATH314: Computability and Complexity, Spring 2023
 
-* [Syllabus](syllabus-1-13-2023.docx)
-* [Overview Schedule](schedule-1-13-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
+* [Syllabus](syllabus-1-23-2023.docx)
+* [Overview Schedule](schedule-1-23-2023.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Textbook (WCBC)](textbook.md)
 * [Homework assignments](hw)
@@ -13,4 +13,4 @@ from [whatcanbecomputed.com](https://whatcanbecomputed.com/)
 
 
 ----
-Last modified: Fri Jan 13 15:49:44 UTC 2023 by jmac.
+Last modified: Mon Jan 23 18:49:40 UTC 2023 by jmac.
