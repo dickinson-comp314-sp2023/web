@@ -10,11 +10,11 @@
 
 <!-- Today's PowerPoint: [03-impossible-programs.pptx](class03/03-impossible-programs.pptx). -->
 
-<!-- ## Class 2 -->
+## Class 2
 
-<!-- Required reading: Chapters 1 and 2 of WCBC. -->
+Required reading: Chapters 1 and 2 of WCBC.
 
-<!-- Today's PowerPoint: [02-computer-programs.pptx](class02/02-computer-programs.pptx). -->
+Today's PowerPoint: [02-computer-programs.pptx](class02/02-computer-programs.pptx).
 
 ## Class 1
 
@@ -56,4 +56,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Fri Jan 13 16:22:15 UTC 2023 by jmac.
+---- Last modified: Thu Jan 26 01:51:32 UTC 2023 by jmac.
