@@ -5,6 +5,7 @@
 * [Detailed schedule](resources)
 * [Textbook (WCBC)](textbook.md)
 * [Homework assignments](hw)
+* [QRA](qra.md)
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 10/3/2022</font> -->
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=49026)
 * [Python
@@ -13,4 +14,4 @@ from [whatcanbecomputed.com](https://whatcanbecomputed.com/) (ignore security wa
 
 
 ----
-Last modified: Mon Jan 23 19:03:06 UTC 2023 by jmac.
+Last modified: Fri Jan 27 12:34:53 UTC 2023 by jmac.
