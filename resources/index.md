@@ -1,14 +1,14 @@
 # Detailed schedule and resources
 
-<!-- ## Class 3 -->
+## Class 3
 
-<!-- Required reading: WCBC Chapter 3. -->
+Required reading: WCBC Chapter 3.
 
-<!-- Handout for today: [class3-handout.pdf](class03/class3-handout.pdf). If you have easy access to a printer, print this out before class, but that is not essential. -->
+Handout for today: [class3-handout.pdf](class03/class3-handout.pdf). If you have easy access to a printer, print this out before class, but that is not essential.
 
-<!-- Today's warm-up exercise: [03-warmup.docx](class03/03-warmup.docx) -->
+Today's warm-up exercise: [03-warmup.docx](class03/03-warmup.docx)
 
-<!-- Today's PowerPoint: [03-impossible-programs.pptx](class03/03-impossible-programs.pptx). -->
+Today's PowerPoint: [03-impossible-programs.pptx](class03/03-impossible-programs.pptx).
 
 ## Class 2
 
@@ -56,4 +56,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Thu Jan 26 01:51:32 UTC 2023 by jmac.
+---- Last modified: Tue Jan 31 02:21:06 UTC 2023 by jmac.
