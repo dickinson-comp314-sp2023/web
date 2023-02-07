@@ -15,21 +15,21 @@
 <!-- *   Encode LastBtoA so that it is suitable for input to the Lucas and Jarvis Universal Turing machine. An [explanation of the encoding](class06/example-encoding-of-turing-machine.pdf) is provided. Lucas and Jarvis provide [another explanation](http://www.itss.brockport.edu/~jlucas/jarvis/JFLAP/examples/e2/pg1.html) on their website. -->
 <!-- *   Test your encoding using the Universal Turing machine and an appropriate input string. In JFLAP, the best way to run this test is to first save your input to a text file, then use the "multiple inputs (transducer)" option from the "input" menu. -->
 
-<!-- ## Class 5 -->
+## Class 5
 
-<!-- Required reading: WCBC Chapter 5. -->
+Required reading: WCBC Chapter 5.
 
-<!-- To download JFLAP, follow the instructions at [jflap.org](http://jflap.org/getjflap.html) (you will be asked to fill out a short form). The best version for this course is <tt>JFLAP7.1.jar</tt> from Jul 27, 2018. -->
+To download JFLAP, follow the instructions at [jflap.org](http://jflap.org/getjflap.html) (you will be asked to fill out a short form). The best version for this course is <tt>JFLAP7.1.jar</tt> from Jul 27, 2018.
 
-<!-- Minilab (ungraded): using JFLAP, -->
+Minilab (ungraded): using JFLAP,
 
-<!-- *   experiment with [binary-incrementer.jff](binary-incrementer.jff) -->
-<!-- *   Create and test the basic version of LastTtoA (fig 5.3) -->
-<!-- *   Create and test the abbreviated version of LastTtoA (fig 5.6) -->
-<!-- *   Create and test a machine that processes genetic strings, changing every "c" to a "g" and every "g" to a "c" -->
-<!-- *   Optional extras: Create a machine that accepts any string of length 10 or more that also contains an "a". -->
+*   experiment with [binary-incrementer.jff](binary-incrementer.jff)
+*   Create and test the basic version of LastTtoA (fig 5.3)
+*   Create and test the abbreviated version of LastTtoA (fig 5.6)
+*   Create and test a machine that processes genetic strings, changing every "c" to a "g" and every "g" to a "c"
+*   Optional extras: Create a machine that accepts any string of length 10 or more that also contains an "a".
 
-<!-- Today's PowerPoint: [05-turing-machines.pptx](class05/05-turing-machines.pptx). -->
+Today's PowerPoint: [05-turing-machines.pptx](class05/05-turing-machines.pptx).
 
 ## Class 4
 
@@ -97,4 +97,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Thu Feb 02 01:50:40 UTC 2023 by jmac.
+---- Last modified: Tue Feb 07 02:49:02 UTC 2023 by jmac.
