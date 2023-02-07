@@ -19,7 +19,15 @@
 
 Required reading: WCBC Chapter 5.
 
-To download JFLAP, follow the instructions at [jflap.org](http://jflap.org/getjflap.html) (you will be asked to fill out a short form). The best version for this course is <tt>JFLAP7.1.jar</tt> from Jul 27, 2018.
+To download JFLAP, follow the instructions at [jflap.org](http://jflap.org/getjflap.html) (you will be asked to fill out a short form). The best version for this course is JFLAP7.1.jar from Jul 27, 2018.
+
+**If the JFLAP website is down you can get [JFLAP on Moodle](https://lms.dickinson.edu/mod/resource/view.php?id=1172511) instead**
+
+**If JFLAP won't run when you click on it, open a terminal, navigate to the directory where you have saved the file `JFLAP7.1.jar`, then enter the command**
+```
+java -jar JFLAP7.1.jar
+```
+(Of course, you need to have Java installed on your computer for this to work.)
 
 Minilab (ungraded): using JFLAP,
 
@@ -97,4 +105,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Tue Feb 07 02:49:02 UTC 2023 by jmac.
+---- Last modified: Tue Feb 07 02:59:45 UTC 2023 by jmac.
