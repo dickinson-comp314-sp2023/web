@@ -1,5 +1,66 @@
 # Detailed schedule and resources
 
+<!-- ## Class 14 -->
+
+<!-- Exam 1. Covers WCBC Chapters 1-9. -->
+
+<!-- ## Class 13 -->
+
+<!-- Exam revision -- please bring questions to class and we will go over them. We can go over specific examples and/or general areas depending on student demand. -->
+
+<!-- Whiteboard notes from class: [rices-theorem.png](class13/rices-theorem.png), [pumping-lemma-etc.png](class13/pumping-lemma-etc.png). -->
+
+<!-- ## Class 12 -->
+
+<!-- Required reading: WCBC Chapter 10. -->
+
+<!-- Today's PowerPoint: [10-complexity-theory-basics.pptx](class12/10-complexity-theory-basics.pptx). -->
+
+<!-- Whiteboard notes on big ideas in the course so far: [big-ideas.png](class12/big-ideas.png). -->
+
+<!-- ## Class 11 -->
+
+<!-- Required reading: WCBC Chapter 9, sections 9.5-end. -->
+
+<!-- Please fill out the [GitHub username form](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UMEU0OThQMUNDOExXQUM5TkVENUxHUEpESS4u) if you haven't done so already. -->
+
+<!-- Today's PowerPoint (same as last time): [09-finite-automata.pptx](class10/09-finite-automata.pptx). -->
+
+<!-- Optionally, you can gain familiarity with pumping lemma proofs by playing a game within JFLAP. Choose "regular pumping lemma" from the initial JFLAP window. Then choose "computer goes first" (the "you go first" option is also interesting and useful, but we don't explain it further here). Choose one of the languages. Now your job is to force the computer to violate the pumping lemma. JFLAP's notation is as follows: _m_ is the pumping cutoff; _w_ is the string in the language that will have some substring pumped; _i_ is the number of times _w_ will have a substring pumped; _w_ gets partitioned as _w=XYZ_ where _Y_ is the substring to be pumped. -->
+
+<!-- ## Class 10 -->
+
+<!-- Required reading: WCBC Chapter 9, sections 9.1-9.4. -->
+
+<!-- Today's PowerPoint: [09-finite-automata.pptx](class10/09-finite-automata.pptx). -->
+
+<!-- In-class JFLAP activity: [activity-class10.docx](class10/activity-class10.docx). -->
+
+<!-- ## Class 9 -->
+
+<!-- Required reading: WCBC Chapter 8. -->
+
+<!-- Today's warm-up exercise: [warmup09.docx](class09/warmup09.docx) -->
+
+<!-- Today's PowerPoint: [08-nondeterminism.pptx](class09/08-nondeterminism.pptx). -->
+
+<!-- ## Class 8 -->
+
+<!-- Required reading: WCBC Chapter 7, sections 7.6-end. -->
+
+<!-- Today's warm-up exercise: [warmup08.docx](class08/warmup08.docx) -->
+
+<!-- Today's PowerPoint (same as last time, starting on slide 13): [07-reductions.pptx](class07/07-reductions.pptx). -->
+
+## Class 7
+
+Required reading: WCBC Chapter 7, sections 7.1-7.5.
+
+Today's warm-up exercise: [warmup07.docx](class07/warmup07.docx)
+
+Today's PowerPoint: [07-reductions.pptx](class07/07-reductions.pptx).
+
+
 ## Class 6
 
 Required reading: WCBC Chapter 6.
@@ -107,4 +168,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Thu Feb 09 03:28:05 UTC 2023 by jmac.
+---- Last modified: Mon Feb 13 17:32:47 UTC 2023 by jmac.
