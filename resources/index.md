@@ -44,14 +44,14 @@
 
 <!-- Today's PowerPoint: [08-nondeterminism.pptx](class09/08-nondeterminism.pptx). -->
 
-<!-- ## Class 8 -->
+## Class 8
 
-<!-- Required reading: WCBC Chapter 7, sections 7.6-end. -->
+Required reading: WCBC Chapter 7, sections 7.6-end.
 
-<!-- Today's warm-up exercise: [warmup08.docx](class08/warmup08.docx) -->
+Today's warm-up exercise: [warmup08.docx](class08/warmup08.docx)
 
-<!-- Today's PowerPoint (same as last time, starting on slide 13): [07-reductions.pptx](class07/07-reductions.pptx). -->
-
+Today's PowerPoint (same as last time, starting on slide 13): [07-reductions.pptx](class07/07-reductions.pptx).
+ 
 ## Class 7
 
 Required reading: WCBC Chapter 7, sections 7.1-7.5.
@@ -168,4 +168,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon Feb 13 17:32:47 UTC 2023 by jmac.
+---- Last modified: Thu Feb 16 02:32:30 UTC 2023 by jmac.
