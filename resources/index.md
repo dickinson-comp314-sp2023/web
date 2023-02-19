@@ -36,13 +36,13 @@
 
 <!-- In-class JFLAP activity: [activity-class10.docx](class10/activity-class10.docx). -->
 
-<!-- ## Class 9 -->
+## Class 9
 
-<!-- Required reading: WCBC Chapter 8. -->
+Required reading: WCBC Chapter 8.
 
-<!-- Today's warm-up exercise: [warmup09.docx](class09/warmup09.docx) -->
+Today's warm-up exercise: [warmup09.docx](class09/warmup09.docx)
 
-<!-- Today's PowerPoint: [08-nondeterminism.pptx](class09/08-nondeterminism.pptx). -->
+Today's PowerPoint: [08-nondeterminism.pptx](class09/08-nondeterminism.pptx).
 
 ## Class 8
 
@@ -168,4 +168,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Thu Feb 16 02:32:30 UTC 2023 by jmac.
+---- Last modified: Sun Feb 19 18:11:39 UTC 2023 by jmac.
