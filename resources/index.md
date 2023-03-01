@@ -10,7 +10,7 @@
 
 <!-- Whiteboard notes from class: [rices-theorem.png](class13/rices-theorem.png), [pumping-lemma-etc.png](class13/pumping-lemma-etc.png). -->
 
-<!-- ## Class 12 -->
+## Class 12
 
 Required reading: WCBC Chapter 10.
 
@@ -168,4 +168,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Wed Mar 01 16:02:11 UTC 2023 by jmac.
+---- Last modified: Wed Mar 01 19:43:48 UTC 2023 by jmac.
