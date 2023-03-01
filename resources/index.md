@@ -12,9 +12,9 @@
 
 <!-- ## Class 12 -->
 
-<!-- Required reading: WCBC Chapter 10. -->
+Required reading: WCBC Chapter 10.
 
-<!-- Today's PowerPoint: [10-complexity-theory-basics.pptx](class12/10-complexity-theory-basics.pptx). -->
+Today's PowerPoint: [10-complexity-theory-basics.pptx](class12/10-complexity-theory-basics.pptx).
 
 <!-- Whiteboard notes on big ideas in the course so far: [big-ideas.png](class12/big-ideas.png). -->
 
@@ -168,4 +168,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon Feb 27 14:48:18 UTC 2023 by jmac.
+---- Last modified: Wed Mar 01 16:02:11 UTC 2023 by jmac.
