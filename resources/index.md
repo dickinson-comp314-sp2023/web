@@ -4,9 +4,9 @@
 
 <!-- Exam 1. Covers WCBC Chapters 1-9. -->
 
-<!-- ## Class 13 -->
+## Class 13
 
-<!-- Exam revision -- please bring questions to class and we will go over them. We can go over specific examples and/or general areas depending on student demand. -->
+Exam revision -- please bring questions to class and we will go over them. We can go over specific examples and/or general areas depending on student demand.
 
 <!-- Whiteboard notes from class: [rices-theorem.png](class13/rices-theorem.png), [pumping-lemma-etc.png](class13/pumping-lemma-etc.png). -->
 
@@ -168,4 +168,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Wed Mar 01 19:43:48 UTC 2023 by jmac.
+---- Last modified: Tue Mar 07 13:51:27 UTC 2023 by jmac.
