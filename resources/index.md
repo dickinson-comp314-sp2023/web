@@ -88,7 +88,7 @@
 
 <!-- ## Class 16 -->
 
-<!-- Please complete the [mid-semester survey](https://forms.office.com/r/bpaHahtXEs) -->
+<!-- Please complete the [mid-semester survey](https://forms.office.com/r/9Hap92dZ9J) -->
 
 <!-- Required reading: WCBC Chapter 11, sections 11.4-end. -->
 
@@ -272,4 +272,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon Mar 20 20:42:32 UTC 2023 by jmac.
+---- Last modified: Mon Mar 20 20:53:53 UTC 2023 by jmac.
