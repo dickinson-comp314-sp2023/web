@@ -88,6 +88,8 @@
 
 <!-- ## Class 16 -->
 
+<!-- Please complete the [mid-semester survey](https://forms.office.com/r/bpaHahtXEs) -->
+
 <!-- Required reading: WCBC Chapter 11, sections 11.4-end. -->
 
 <!-- Today's PowerPoint (same as last time): [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx). -->
@@ -270,4 +272,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon Mar 20 00:56:23 UTC 2023 by jmac.
+---- Last modified: Mon Mar 20 20:42:32 UTC 2023 by jmac.
