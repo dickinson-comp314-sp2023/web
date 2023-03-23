@@ -88,13 +88,13 @@
 
 <!-- ## Class 16 -->
 
-<!-- Please complete the [mid-semester survey](https://forms.office.com/r/9Hap92dZ9J) -->
+Please complete the [mid-semester survey](https://forms.office.com/r/9Hap92dZ9J)
 
-<!-- Required reading: WCBC Chapter 11, sections 11.4-end. -->
+Required reading: WCBC Chapter 11, sections 11.4-end.
 
-<!-- Today's PowerPoint (same as last time): [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx). -->
+Today's PowerPoint (same as last time): [11-poly-and-expo.pptx](class15/11-poly-and-expo.pptx).
 
-<!-- Handout comparing the proof that the halting problem is undecidable with the proof that HaltsInExpTime cannot be solved in polynomial time: [Proof-that-HET-not-in-poly.pdf](class16/Proof-that-HET-not-in-poly.pdf). (optional enrichment) -->
+Handout comparing the proof that the halting problem is undecidable with the proof that HaltsInExpTime cannot be solved in polynomial time: [Proof-that-HET-not-in-poly.pdf](class16/Proof-that-HET-not-in-poly.pdf). (optional enrichment)
 
 <!-- Warmup for POLY vs EXPO: [warmup-for-poly-vs-expo.png](class15/warmup-for-poly-vs-expo.png). -->
 
@@ -272,4 +272,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon Mar 20 20:53:53 UTC 2023 by jmac.
+---- Last modified: Thu Mar 23 11:50:54 UTC 2023 by jmac.
