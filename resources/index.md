@@ -68,15 +68,13 @@
 
 <!-- Warmup for today: [warmup-class19.docx](class19/warmup-class19.docx). -->
 
-<!-- ## Class 18 -->
+## Class 18
 
-<!-- Required reading: WCBC Chapter 12, sections 12.4-end. -->
+Required reading: WCBC Chapter 12, sections 12.4-end.
 
-<!-- Today's PowerPoint (same as last time): [12-polycheck-and-npoly.pptx](class17/12-polycheck-and-npoly.pptx). -->
+Today's PowerPoint (same as last time): [12-polycheck-and-npoly.pptx](class17/12-polycheck-and-npoly.pptx).
 
-<!-- Warmup for today: [warmup-class18.docx](class18/warmup-class18.docx). -->
-
-<!-- Whiteboard for proof that PolyCheck is a subset of NPoly: [polycheck-in-npoly-whiteboard.png](class18/polycheck-in-npoly-whiteboard.png). -->
+Warmup for today: [warmup-class18.docx](class18/warmup-class18.docx).
 
 ## Class 17
 
@@ -272,4 +270,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Tue Mar 28 01:37:42 UTC 2023 by jmac.
+---- Last modified: Thu Mar 30 02:20:09 UTC 2023 by jmac.
