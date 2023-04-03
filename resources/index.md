@@ -60,13 +60,13 @@
 
 <!-- Clarification of what you are expected to understand: the details of the Tseytin transformation will not be tested in homework or exams. All other reductions in this chapter are examinable. -->
 
-<!-- ## Class 19 -->
+## Class 19
 
-<!-- Required reading: WCBC Chapter 13, sections 13.1-4. -->
+Required reading: WCBC Chapter 13, sections 13.1-4.
 
-<!-- Today's PowerPoint: [13-polyreductions.pptx](class19/13-polyreductions.pptx). -->
+Today's PowerPoint: [13-polyreductions.pptx](class19/13-polyreductions.pptx).
 
-<!-- Warmup for today: [warmup-class19.docx](class19/warmup-class19.docx). -->
+Warmup for today: [warmup-class19.docx](class19/warmup-class19.docx).
 
 ## Class 18
 
@@ -270,4 +270,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Thu Mar 30 02:20:09 UTC 2023 by jmac.
+---- Last modified: Mon Apr 03 23:32:57 UTC 2023 by jmac.
