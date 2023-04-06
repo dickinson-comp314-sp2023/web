@@ -52,13 +52,13 @@
 
 <!-- Today's PowerPoint: [14-np-completeness.pptx](class21/14-np-completeness.pptx). -->
 
-<!-- ## Class 20 -->
+## Class 20
 
-<!-- Required reading: WCBC Chapter 13, sections 13.5-end. -->
+Required reading: WCBC Chapter 13, sections 13.5-end.
 
-<!-- Today's PowerPoint (same as last time): [13-polyreductions.pptx](class19/13-polyreductions.pptx). -->
+Today's PowerPoint (same as last time): [13-polyreductions.pptx](class19/13-polyreductions.pptx).
 
-<!-- Clarification of what you are expected to understand: the details of the Tseytin transformation will not be tested in homework or exams. All other reductions in this chapter are examinable. -->
+Clarification of what you are expected to understand: the details of the Tseytin transformation will not be tested in homework or exams. All other reductions in this chapter are examinable.
 
 ## Class 19
 
@@ -270,4 +270,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon Apr 03 23:32:57 UTC 2023 by jmac.
+---- Last modified: Thu Apr 06 00:19:31 UTC 2023 by jmac.
