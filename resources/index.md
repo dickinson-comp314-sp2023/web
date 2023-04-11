@@ -38,13 +38,13 @@
 
 <!-- Today's PowerPoint: [15-original-turing-machine.pptx](class23/15-original-turing-machine.pptx). -->
 
-<!-- ## Class 22 -->
+## Class 22
 
-<!-- Required reading: WCBC Chapter 14, sections 14.6-7. Please also read the excerpt from Lance Fortnow's book, _The Golden Ticket_ (available on Moodle). -->
+Required reading: WCBC Chapter 14, sections 14.6-7. Please also read the excerpt from Lance Fortnow's book, _The Golden Ticket_ (available on Moodle).
 
-<!-- Fortnow discussion questions: [fortnow-discussion-questions.docx](class22/fortnow-discussion-questions.docx). -->
+Fortnow discussion questions: [fortnow-discussion-questions.docx](class22/fortnow-discussion-questions.docx).
 
-<!-- Today's PowerPoint (same as last time): [14-np-completeness.pptx](class21/14-np-completeness.pptx). -->
+Today's PowerPoint (same as last time): [14-np-completeness.pptx](class21/14-np-completeness.pptx).
 
 ## Class 21
 
@@ -270,4 +270,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Tue Apr 11 00:23:15 UTC 2023 by jmac.
+---- Last modified: Tue Apr 11 12:54:23 UTC 2023 by jmac.
