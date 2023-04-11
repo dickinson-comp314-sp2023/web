@@ -46,11 +46,11 @@
 
 <!-- Today's PowerPoint (same as last time): [14-np-completeness.pptx](class21/14-np-completeness.pptx). -->
 
-<!-- ## Class 21 -->
+## Class 21
 
-<!-- Required reading: WCBC Chapter 14, sections 14.1-5. -->
+Required reading: WCBC Chapter 14, sections 14.1-5.
 
-<!-- Today's PowerPoint: [14-np-completeness.pptx](class21/14-np-completeness.pptx). -->
+Today's PowerPoint: [14-np-completeness.pptx](class21/14-np-completeness.pptx).
 
 ## Class 20
 
@@ -270,4 +270,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Thu Apr 06 00:19:31 UTC 2023 by jmac.
+---- Last modified: Tue Apr 11 00:23:15 UTC 2023 by jmac.
