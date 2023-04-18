@@ -32,11 +32,11 @@
 
 <!-- Exam review for chapters 10-14. No required reading. -->
 
-<!-- ## Class 23 -->
+## Class 23
 
-<!-- Required reading: WCBC Chapter 15. -->
+Required reading: WCBC Chapter 15.
 
-<!-- Today's PowerPoint: [15-original-turing-machine.pptx](class23/15-original-turing-machine.pptx). -->
+Today's PowerPoint: [15-original-turing-machine.pptx](class23/15-original-turing-machine.pptx).
 
 ## Class 22
 
@@ -270,4 +270,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Tue Apr 11 12:54:23 UTC 2023 by jmac.
+---- Last modified: Tue Apr 18 12:54:04 UTC 2023 by jmac.
