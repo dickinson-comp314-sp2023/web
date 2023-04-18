@@ -28,9 +28,9 @@
 
 <!-- There is no in-classroom session today and no Zoom session. Please work on the exam during class time and submit questions to the Exams channel on Teams. -->
 
-<!-- ## Class 24 -->
+## Class 24
 
-<!-- Exam review for chapters 10-14. No required reading. -->
+Exam review for chapters 10-14. No required reading.
 
 ## Class 23
 
@@ -270,4 +270,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Tue Apr 18 12:54:04 UTC 2023 by jmac.
+---- Last modified: Tue Apr 18 14:49:51 UTC 2023 by jmac.
