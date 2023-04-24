@@ -22,11 +22,10 @@
 
 <!-- Today's PowerPoint: [16-godels-theorem.pptx](class26/16-godels-theorem.pptx). -->
 
-<!-- ## Class 25 -->
+## Class 25
 
-<!-- Exam 2 -- covers chapters 10-14. -->
+Exam 2 -- see [exams](../exams.md) page for details.
 
-<!-- There is no in-classroom session today and no Zoom session. Please work on the exam during class time and submit questions to the Exams channel on Teams. -->
 
 ## Class 24
 
@@ -270,4 +269,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Tue Apr 18 14:49:51 UTC 2023 by jmac.
+---- Last modified: Mon Apr 24 14:05:25 UTC 2023 by jmac.
