@@ -12,15 +12,19 @@
 
 <!-- ## Class 27 -->
 
+<!-- Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course. -->
+
+
 <!-- Required reading: WCBC Ch17 -->
 
 <!-- Today's PowerPoint: [17-karps-problems.pptx](class27/17-karps-problems.pptx). -->
 
-<!-- ## Class 26 -->
+## Class 26
 
-<!-- Required reading: WCBC Ch16 -->
+Required reading: WCBC Ch16
 
-<!-- Today's PowerPoint: [16-godels-theorem.pptx](class26/16-godels-theorem.pptx). -->
+Today's PowerPoint: [16-godels-theorem.pptx](class26/16-godels-theorem.pptx).
+
 
 ## Class 25
 
@@ -269,4 +273,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon Apr 24 14:05:25 UTC 2023 by jmac.
+---- Last modified: Thu Apr 27 03:03:22 UTC 2023 by jmac.
