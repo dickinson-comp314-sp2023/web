@@ -10,14 +10,14 @@
 
 <!-- Whiteboard with review of logical systems: [logical-systems-review.png](class28/logical-systems-review.png). -->
 
-<!-- ## Class 27 -->
+## Class 27
 
-<!-- Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course. -->
+Please complete the [official feedback form](https://dickinson.campuslabs.com/courseeval/) for this course.
 
 
-<!-- Required reading: WCBC Ch17 -->
+Required reading: WCBC Ch17
 
-<!-- Today's PowerPoint: [17-karps-problems.pptx](class27/17-karps-problems.pptx). -->
+Today's PowerPoint: [17-karps-problems.pptx](class27/17-karps-problems.pptx).
 
 ## Class 26
 
@@ -273,4 +273,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Thu Apr 27 03:03:22 UTC 2023 by jmac.
+---- Last modified: Mon May 01 13:04:59 UTC 2023 by jmac.
