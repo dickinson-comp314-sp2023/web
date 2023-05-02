@@ -8,7 +8,7 @@
 * [Textbook (WCBC)](textbook.md)
 * [Homework assignments](hw)
 * [QRA](qra.md)
-* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="green">ADDED on 3/1/2023</font>
+* [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 5/2/2023</font>
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=49026)
 * [Python
 programs](http://whatcanbecomputed.com/wp-content/uploads/2019/01/wcbc-programs-v1.1.zip)
@@ -16,4 +16,4 @@ from [whatcanbecomputed.com](https://whatcanbecomputed.com/) (ignore security wa
 
 
 ----
-Last modified: Wed Mar 01 16:22:57 UTC 2023 by jmac.
+Last modified: Tue May 02 12:52:27 UTC 2023 by jmac.

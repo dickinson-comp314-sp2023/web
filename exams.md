@@ -64,3 +64,9 @@ Exam 2 covers material from textbook chapters 10-14 inclusive. Likely questions 
 The final exam is cumulative, covering all topics in chapters 1-14 with approximately equal emphasis. The style and content of questions on chapters 1-14 will be similar to the two midterm exams.
 
 Chapters 15-17 will be examined too, but the style of questions will be less rigorous: you are expected to have read and understood this material, but detailed calculations and proofs based on chapters 15-17 are not required. The ungraded questions in Assignment J are typical examples of questions that could be asked about chapters 15-17.
+
+As with all Dickinson final exams, you have three hours to complete
+the exam. The final exam will have questions worth approximately 120
+points, with the usual expectation that a well-prepared student would
+require about one minute per point. Therefore, the final exam should
+have somewhat less time pressure than the midterm exams.
