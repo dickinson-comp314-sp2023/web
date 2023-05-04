@@ -1,14 +1,12 @@
 # Detailed schedule and resources
 
-<!-- ## Class 28 -->
+## Class 28
 
-<!-- Required reading: WCBC Ch18 -->
+Required reading: WCBC Ch18
 
-<!-- Today's PowerPoint: [18-conclusion.pptx](class28/18-conclusion.pptx). -->
+Today's PowerPoint: [18-conclusion.pptx](class28/18-conclusion.pptx).
 
-<!-- Also today: exam review and independent homework on assignment J. -->
-
-<!-- Whiteboard with review of logical systems: [logical-systems-review.png](class28/logical-systems-review.png). -->
+Also today: exam review and independent homework on assignment J.
 
 ## Class 27
 
@@ -273,4 +271,4 @@ def multiply(inString):
     return str(product)
 ```
 
----- Last modified: Mon May 01 13:04:59 UTC 2023 by jmac.
+---- Last modified: Thu May 04 00:45:45 UTC 2023 by jmac.
